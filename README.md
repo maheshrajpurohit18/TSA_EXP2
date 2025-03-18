@@ -72,7 +72,7 @@ a_poly, b_poly, c_poly = solution
 poly_trend = [a_poly + b_poly * X[i] + c_poly * (X[i] ** 2) for i in range(n)]
 ```
 
-Visualising results
+VISUALISING RESULTS
 ```
 print(f"Linear Trend: y={a:.2f} + {b:.2f}x")
 print(f"\nPolynomial Trend: y={a_poly:.2f} + {b_poly:.2f}x + {c_poly:.2f}x²")
