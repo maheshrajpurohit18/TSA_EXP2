@@ -93,10 +93,17 @@ resampled_data['Polynomial Trend'].plot(kind='line',color='black',marker='o')
 
 ![image](https://github.com/user-attachments/assets/76ef5d7f-78c5-4140-9a2f-8f1aeaf4ea4d)
 
+
+
 A - LINEAR TREND ESTIMATION
+
 ![image](https://github.com/user-attachments/assets/895775a6-6701-43c7-a309-e7b7455487cc)
 
+
+
 B- POLYNOMIAL TREND ESTIMATION
+
+
 ![image](https://github.com/user-attachments/assets/374c9b2c-e4df-463b-994b-6a6b8ecf7a73)
 
 ### RESULT:
